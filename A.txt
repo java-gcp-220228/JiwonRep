@@ -1,3 +1,7 @@
 1st line of code
+<<<<<<< HEAD
 2nd line of code
 hello world
+=======
+Hello World
+>>>>>>> my-new-branch
